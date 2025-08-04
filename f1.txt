@@ -1,6 +1,2 @@
 Hi 
 How are you ?
-
-Good Morning 
-
-String name = "Ramesh";
